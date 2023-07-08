@@ -21,7 +21,7 @@ setup(
           'torchgeometry>=0.1.2',
           'trimesh',
           'scipy',
-          'chumpy'
+          
       ],
       packages=['mano']
 
